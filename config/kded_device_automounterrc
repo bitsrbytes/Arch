@@ -1,0 +1,17 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=EFI
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Linux filesystem
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda4]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Linux filesystem
+LastSeenMounted=true

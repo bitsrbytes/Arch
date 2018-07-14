@@ -1,0 +1,13 @@
+[PlasmaViews][Panel 2]
+alignment=132
+
+[PlasmaViews][Panel 2][Horizontal2880]
+maxLength=2874
+minLength=2874
+thickness=88
+
+[ScreenConnectors]
+0=eDP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
